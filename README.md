@@ -1,8 +1,5 @@
 # Screenshots
 
-## Environment
-![alt text](./documentation/environment.png)
-
 ## Dependencies
 ![alt text](./documentation/dependencies.png)
 
